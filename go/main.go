@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	f1()
-	f2()
+	f3()
 }
 
 func f1() {
